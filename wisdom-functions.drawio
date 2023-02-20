@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T09:23:45.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="13A-RSHKC7PludHk_OBE" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-20T10:53:49.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hGYlA_7t0bm0MB6xNsJz" version="20.8.20" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1079" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jpElm7VOaNm1ZWiI3e5p" name="第 2 页">
-    <mxGraphModel dx="1079" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MYeKknY0GJxouChdDM_y" name="第 3 页">
-    <mxGraphModel dx="1079" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fctGHMjznz-3LITIjbdd" name="第 4 页">
-    <mxGraphModel dx="1306" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,6 +973,232 @@
         <mxCell id="NoRtV6bejYNoUqHSLo-2-62" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=oval;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="NoRtV6bejYNoUqHSLo-2-1" source="NoRtV6bejYNoUqHSLo-2-26" target="NoRtV6bejYNoUqHSLo-2-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="utcq0GFo-a2ZBn1lEfPs" name="第 5 页">
+    <mxGraphModel dx="1633" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VshWkR14tdGrlOo1pBsR-1" value="讲书" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="1100" width="670" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-7" target="VshWkR14tdGrlOo1pBsR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-3" value="Customer" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-1">
+          <mxGeometry y="40" width="670" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-4" value="Feel tired" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-3">
+          <mxGeometry x="40" width="130" height="180" as="geometry">
+            <mxRectangle width="130" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-4" source="VshWkR14tdGrlOo1pBsR-6" target="VshWkR14tdGrlOo1pBsR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-4">
+          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-7" value="Find barista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-4">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-8" value="业务前台" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-3">
+          <mxGeometry x="170" width="370" height="180" as="geometry">
+            <mxRectangle width="370" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-9" value="Request latte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-8">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-10" value="Buy latte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-8">
+          <mxGeometry x="150" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-11" value="业务后台" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-3">
+          <mxGeometry x="540" width="130" height="180" as="geometry">
+            <mxRectangle width="130" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-11" source="VshWkR14tdGrlOo1pBsR-13" target="VshWkR14tdGrlOo1pBsR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-13" value="Drink latte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-11">
+          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-11">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-15" value="Barista" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-1">
+          <mxGeometry y="220" width="670" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-15">
+          <mxGeometry x="40" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-17" value="Greet customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-16">
+          <mxGeometry x="20" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-18" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-15">
+          <mxGeometry x="170" width="370" height="80" as="geometry">
+            <mxRectangle width="370" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-18" source="VshWkR14tdGrlOo1pBsR-20" target="VshWkR14tdGrlOo1pBsR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-20" value="Accept&lt;br&gt;payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-18">
+          <mxGeometry x="150" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-21" value="Write details&lt;br&gt;on cup" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-18">
+          <mxGeometry x="20" y="10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-22" value="Make latte" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-18">
+          <mxGeometry x="260" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-23" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-15">
+          <mxGeometry x="540" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-17" target="VshWkR14tdGrlOo1pBsR-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="260" />
+              <mxPoint x="160" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-9" target="VshWkR14tdGrlOo1pBsR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-21" target="VshWkR14tdGrlOo1pBsR-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="260" />
+              <mxPoint x="300" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-10" target="VshWkR14tdGrlOo1pBsR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VshWkR14tdGrlOo1pBsR-1" source="VshWkR14tdGrlOo1pBsR-22" target="VshWkR14tdGrlOo1pBsR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="260" />
+              <mxPoint x="530" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-29" value="讲书" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="1850" height="790" as="geometry" />
+        </mxCell>
+        <UserObject label="讲书" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-30">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="470" y="50" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-31" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="VshWkR14tdGrlOo1pBsR-29" source="VshWkR14tdGrlOo1pBsR-30" target="VshWkR14tdGrlOo1pBsR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="业务前台" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-32">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="40" y="180" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-35" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="VshWkR14tdGrlOo1pBsR-29" source="VshWkR14tdGrlOo1pBsR-30" target="VshWkR14tdGrlOo1pBsR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="业务后台" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-36">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="1060" y="180" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-39" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-40" source="VshWkR14tdGrlOo1pBsR-32" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="商户管理&lt;br&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-40">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="40" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-41" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-42" source="VshWkR14tdGrlOo1pBsR-32" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="商品（SKU）通用化" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-42">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="180" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-43" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-44" source="VshWkR14tdGrlOo1pBsR-32" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="营销功能通用化" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-44">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="460" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-45" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-46" source="VshWkR14tdGrlOo1pBsR-32" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="运营工具通用化" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-46">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="600" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-47" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-48" source="VshWkR14tdGrlOo1pBsR-30" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="业务中台" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-48">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="760" y="180" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-53" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-54" source="VshWkR14tdGrlOo1pBsR-32" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="产品通用化" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-54">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="320" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VshWkR14tdGrlOo1pBsR-29" source="VshWkR14tdGrlOo1pBsR-32" target="VshWkR14tdGrlOo1pBsR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-60" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-61" source="VshWkR14tdGrlOo1pBsR-48" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="255" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="资源管理" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-61">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="760" y="300" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VshWkR14tdGrlOo1pBsR-70" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="VshWkR14tdGrlOo1pBsR-71" source="VshWkR14tdGrlOo1pBsR-54" parent="VshWkR14tdGrlOo1pBsR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="详情页统一" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="VshWkR14tdGrlOo1pBsR-71">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="VshWkR14tdGrlOo1pBsR-29">
+            <mxGeometry x="320" y="385" width="130" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
